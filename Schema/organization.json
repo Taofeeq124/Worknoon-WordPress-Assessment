@@ -1,0 +1,27 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Organization",
+  "name": "Worknoon",
+  "url": "https://www.worknoon.homeandedibles.com/",
+  "logo": "https://www.worknoon.homeandedibles.com/wp-content/uploads/2026/01/logo.png",
+  "description": "Worknoon is a digital agency focused on building high-performing websites that drive measurable business results through design, SEO, and technical optimization.",
+  "sameAs": [
+    "https://www.linkedin.com",
+    "https://www.instagram.com",
+    "https://twitter.com"
+  ],
+  "contactPoint": {
+    "@type": "ContactPoint",
+    "contactType": "customer support",
+    "email": "contact.us@wknoon.com"
+  },
+  "areaServed": "Global",
+  "knowsAbout": [
+    "Web Design",
+    "SEO",
+    "Landing Page Optimization",
+    "Technical SEO",
+    "Website Performance",
+    "Brand Strategy"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "Founder of Worknoon",
+  "url": "https://www.worknoon.homeandedibles.com/",
+  "affiliation": {
+    "@type": "Organization",
+    "name": "Worknoon"
+  },
+  "jobTitle": "Founder",
+  "worksFor": {
+    "@type": "Organization",
+    "name": "Worknoon"
+  },
+  "knowsAbout": [
+    "Web Development",
+    "SEO Strategy",
+    "Digital Growth",
+    "Conversion Optimization"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "@context": "https://schema.org",
+  "@type": "WebSite",
+  "name": "Worknoon",
+  "url": "https://www.worknoon.homeandedibles.com/",
+  "description": "We design and optimize high-performing websites that convert better and scale smarter.",
+  "publisher": {
+    "@type": "Organization",
+    "name": "Worknoon"
+  },
+  "potentialAction": {
+    "@type": "SearchAction",
+    "target": "https://www.worknoon.homeandedibles.com/?s={search_term_string}",
+    "query-input": "required name=search_term_string"
+  }
+}
